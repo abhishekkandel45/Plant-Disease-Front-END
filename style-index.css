@@ -137,3 +137,8 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.selected-image-next {
+    border: 0.3rem solid white;
+    border-radius: 1.5rem;
+}
